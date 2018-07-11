@@ -1,0 +1,60 @@
+{
+    "DataObj": {
+      "collections":{
+        "neighborhood":{
+          "posts":[
+            { "title": "article about homelessness",
+              "author":"Nichelle Hall",
+               "body": "blah blah blah"
+            },
+            { 
+                "title": "article about LGBTQ rights",
+                "author":"Bob Dylan",
+                 "body": "blah blah blah choo choo choo"
+            },
+            {
+                "title": "article about how trump sucks",
+                "author":"Alexis Herrera",
+                 "body": "FUCK TRUMP!!"
+            }
+        ]
+     },
+        "country":{
+            "posts":[
+                { "title": "article about SF Housing",
+                  "author":"Nichelle Hall",
+                   "body": "blah blah blah"
+                },
+                { 
+                    "title": "article about Gentrification",
+                    "author":"Bob Dylan",
+                     "body": "blah blah blah choo choo choo"
+                },
+                {
+                    "title": "article about city councilmember",
+                    "author":"Alexis Herrera",
+                     "body": "FUCK TRUMP!!"
+                }
+            ]
+        },
+        "world":{
+            "posts":[
+                { "title": "article about china",
+                  "author":"Nichelle Hall",
+                   "body": "blah blah blah"
+                },
+                { 
+                    "title": "article about Kenya",
+                    "author":"Bob Dylan",
+                     "body": "blah blah blah choo choo choo"
+                },
+                {
+                    "title": "article about Iran",
+                    "author":"Alexis Herrera",
+                     "body": "FUCK TRUMP!!"
+                }
+            ]
+        }
+    }
+}
+}

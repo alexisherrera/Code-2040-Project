@@ -3,7 +3,6 @@ var router = express.Router();
 
 //ARTICLES
 
-
 //route for article given the articleID
 router.get('/:articleID', function(req, res, next) {
   res.render('index', { title: 'ARTICLE' + " " + req.params.articleID });
@@ -11,6 +10,8 @@ router.get('/:articleID', function(req, res, next) {
 
 //route for actions of an article
 router.get('/:articleID/actions', function(req, res, next) {
+
+
   res.render('index', { title: 'ARTICLE' + " " + req.params.articleID + "ACTIONS" });
 });
 
